@@ -11,7 +11,7 @@ My first repository
 ## Overview
 > *"Don’t run behind success. Strive for excellence, and success will follow."*
 
-*3 Idiots* is an Indian film directed by **Rajkumar Hirani**. It follows the story of **three engineering students** — Rancho, Farhan, and Raju — as they navigate college life, friendship, and the pressure of academic success.  
+*3 Idiots* is an Indian film directed by **Rajkumar Hirani**. It follows the story of three engineering students — Rancho, Farhan, and Raju — as they navigate college life, friendship, and the pressure of academic success.  
 The film highlights the flaws of the education system and encourages creativity and passion over rote learning.
 
 ---
@@ -26,22 +26,22 @@ The film highlights the flaws of the education system and encourages creativity 
 ---
 
 ## Why I Love This Movie
-- Inspires me to **follow my passion**, not pressure.  
-- Combines **humor and deep life lessons** beautifully.  
-- Shows the **value of true friendship** and curiosity.  
+- Inspires me to follow my passion, not pressure.  
+- Combines humor and deep life lessons beautifully.  
+- Shows the value of true friendship and curiosity.  
 
 ---
 
 ## Memorable Quote
-> *“All is well.”*  
+> *“All is well.”* 
 
 This phrase reminds us to stay calm even in difficult times.  
 
 ---
 
 ## Achievements
-- **Filmfare Award for Best Film (2010)**  
-- One of the **highest-grossing Indian films** of all time  
+- Filmfare Award for Best Film (2010) 
+- One of the highest-grossing Indian films of all time  
 - Inspired remakes in several languages  
 
 ---
